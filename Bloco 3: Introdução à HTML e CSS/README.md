@@ -1,9 +1,9 @@
-### HTML & CSS - Estruturas de página
+### dia_1 -> HTML & CSS - Estruturas de página
 
-### HTML & CSS - Primeiros passos em CSS
+### dia_2 -> HTML & CSS - Primeiros passos em CSS
 
-### HTML & CSS - Seletores e posicionamento
+### dia_3 -> HTML & CSS - Seletores e posicionamento
 
-### HTML Semântico
+### dia_4 -> HTML Semântico
 
-### Projetos com HTML & CSS
+### dia_de_projetoProjetos -> HTML & CSS
